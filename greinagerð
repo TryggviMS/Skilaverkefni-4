@@ -1,0 +1,26 @@
+viðburður
+Harpa tónleikar
+rammstein, sólstafir, skálmöld.
+hægt að skrá sig á einn eða fleiri tónleika.
+3 tónleikar samtals sem eru á viðburðinum.
+ef maður ýtir á ákveðinn viðburð fer maður á nýja síðu sem er með forms sem maður skráir sig á tónleika.
+boðið hvort maður vill skrá sig á aðra tónleika líka.
+Menu hefur link á síður hverrar hjlómsveitar, forsíða ef maður er ekki á forsíðu.
+
+Form til að skrá sig á tónleikana.
+Kennitala
+Nafn
+Netfang
+Sími
+
+Gagnagrunnur: í gagnagrunni eru 3 töflur, einn fyrir notanda, ein fyrir viðburð og ein millitafla sem heldur utan um skráningu notanda á viðburð.
+Það verður engin admin síða þannig að ég læt duga að hafa skráningu í grunnin einu sql virkni i verkefninu.
+
+í header er navigation gluggi sem er með link á allar síður sem eru í boði
+
+Aðalsíða: header og nav og 3 gluggar, hver gluggi tengist hverjum viðburði.
+3 viðburðir, á hverjum viðburði er header,form og smá upplýsingar
+
+happdrætti er gamalt steinn skæri blað jquery verkefni. ef maður sigrar tölvuna vinnur maður miða á tónleika.
+
+Hvað mætti gera betur. Það mætti hreinsa til og skipuleggja meira css kóðann og einhvað af html kóðanum. hafa fleiri möguleika varðandi skráningu á atburð t.d. skrá sig á marga viðburð, skrá sig á nokkra og kannski afsláttur og eða að borga. Það mætti líka lagfæra eða uppfæra menu gluggan, en fyrst að hann virkar fyrir bæði venjulega desktop síðu og sem dropdown menu fyrir mobile lét ég hann fljóta með. Ég hefði viljað nota scss og flex-box, en tími leyfði það einfaldlega ekki. Ég hefði líka viljað setja fót en hafði bara ekki tíma til þess.
